@@ -1,2 +1,0 @@
-# servidor
-patos unidos
